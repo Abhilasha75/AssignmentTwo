@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AssignmentTwo</string>
+    <string name="text_message">Text Message</string>
+    <string name="from_idea">from Idea</string>
+</resources>
